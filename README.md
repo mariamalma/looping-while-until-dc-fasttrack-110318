@@ -31,7 +31,10 @@ Fill out the content of the `using_until` method to `puts` the desired phrase, "
 
 
 While counter <randomized.length
+student1= randomized[counter]
+student2=randomized[counter+1]
 
+if counter/[]
 
 
 
